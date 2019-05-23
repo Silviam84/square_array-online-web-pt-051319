@@ -6,3 +6,4 @@ def square_array(array)
   square_array (New_names)
   # => [ Liz, Luz, Lace]
   
+  
