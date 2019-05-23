@@ -4,5 +4,5 @@ def square_array(array)
   New_names => (Teresa, Maria, lilia)
   
   square_array (New_names)
-  # => 
+  # => [ Liz, Luz, Lace]
   
