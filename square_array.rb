@@ -1,3 +1,9 @@
 def square_array(array)
-  # your code here
-end
+  # => ( Nancy, Grace, France)
+  
+  New_names => (Teresa, Maria, lilia)
+  
+  square_array (New_names)
+  # => [ Liz, Luz, Lace]
+  
+  
